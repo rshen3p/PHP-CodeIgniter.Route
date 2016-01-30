@@ -1,5 +1,14 @@
 # Change Log
 
+## 1.0.6
+**Changed files:**
+- routes.php add a route for wildcard routing to /show/num
+- First.php for accepting the thrid quote route
+
+## 1.0.5
+**Added files:**
+- Last.php for accepting the last quote route
+
 ## 1.0.4
 **Changed files:**
 - routes.php add a route for regex routing
@@ -17,6 +26,5 @@
 - First.php for accepting the first quote route
 
 ## 1.0.1
-
 **Added files:**
 - CHANGELOG.md for keeping track of all commit updates
