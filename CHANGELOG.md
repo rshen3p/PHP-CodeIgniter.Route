@@ -1,5 +1,11 @@
 # Change Log
 
+## 1.0.7
+**Added files:**
+- Wise.php for accepting the wise regex route
+
+**Changed files:**
+- routes.php add a route for regex routing
 
 ## 1.0.6
 **Changed files:**
