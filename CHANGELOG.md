@@ -1,5 +1,12 @@
 # Change Log
 
+## 1.0.4
+**Changed files:**
+- routes.php add a route for regex routing
+
+**Added files:**
+- Bingo.php for accepting the bingo regex route
+
 ## 1.0.3
 **Changed files:**
 - routes.php add a new route for wildcard routing to /lock/*/*
