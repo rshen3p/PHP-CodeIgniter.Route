@@ -41,6 +41,8 @@ $route['default_controller'] = "welcome";
 $route['show/(:num)'] = 'first/gimme/3';
 $route['404_override'] = '';
 
+$route['lock/(:any)/(:any)'] = 'welcome/shucks';
+$route['(.{4})/bingo'] = 'bingo';
 
 /* End of file routes.php */
 /* Location: ./application/config/routes.php */
