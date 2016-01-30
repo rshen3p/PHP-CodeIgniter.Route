@@ -37,8 +37,8 @@
 | in the URL cannot be matched to a valid route.
 |
 */
-
 $route['default_controller'] = "welcome";
+$route['show/(:num)'] = 'first/gimme/3';
 $route['404_override'] = '';
 
 
