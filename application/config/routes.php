@@ -39,6 +39,7 @@
 */
 $route['default_controller'] = "welcome";
 $route['show/(:num)'] = 'first/gimme/3';
+$route['comp[0-9]+/[a-zA-Z0-9]*'] = 'wise/bingo';
 $route['404_override'] = '';
 
 $route['lock/(:any)/(:any)'] = 'welcome/shucks';
