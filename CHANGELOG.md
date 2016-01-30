@@ -1,5 +1,6 @@
 # Change Log
 
+
 ## 1.0.6
 **Changed files:**
 - routes.php add a route for wildcard routing to /show/num
