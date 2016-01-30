@@ -3,7 +3,7 @@
 ## 1.0.6
 **Changed files:**
 - routes.php add a route for wildcard routing to /show/num
-- First.php for accepting the thrid quote route
+- First.php for accepting the third quote route
 
 ## 1.0.5
 **Added files:**
